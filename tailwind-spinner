@@ -1,0 +1,7 @@
+<div class="flex justify-center items-center flex-col h-screen bg-blue-400">
+  <div class="relative w-14 h-14 border-4 rounded-full border-white">
+    <div class="absolute left-0 top-0 w-14 h-14 -translate-x-1 -translate-y-1">
+      <div class="h-full w-full border-4 border-gray-800 rounded-full border-r-transparent animate-spin"></div>
+    </div>
+  </div>
+</div>
